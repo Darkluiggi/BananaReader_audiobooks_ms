@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "arquisoft-347418",
+  "private_key_id": "e36852391f1ad97d4f047162a046578765577d03",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDIh8PxG3KKSKRI\nV994Y+XOQ+6l6ujrFpnJQt1MkxpGcOnaKNFfnQKxJywkCUi4Y9mR5Xi83B1BUkg3\nDEIk39Jw50SB3lm6huDVUyikh9h5NSS6tOsoGKcjmI7HaaGXutWlE+v9GgR4bKK8\nC3L9ZPm/QwddGnfktZ6E51GDnkTpOpTmS2+j6SgrReXdwsrIiUcyFOB4VRI53Vzn\nmPbS58pXYbYLrpjytDP4EpvaSNZk25bO7z3TuvJGyu1+WsvmXp1+QPJ4BXI+FX2G\ncVi824/vdKwVqtbL3dhhQNZF0DPKtyvsGPDWePoK4BEljy8WPrDlx3qqmhTzb0J4\nlF95/TM3AgMBAAECggEAMAIg7PZPQ8AEZLV08NOpzuoAloRY4v90LfTuGkkVf0vF\nEM+44JUscdEZBj+aw1pUWlN/xmdEMcFLPLKYm09iiFk104myHa/w3+Ga11kWgF4y\nvuhVbDIKwcDiXedyIms+ftj4JI44B8SqaS6shvHHwPyBJM8TaRP6MYNXxpT7loJc\n90k6mIA3rVBY+QAIoXlZHtXkCWU0zHYBOmvGW1E2ruwxC+/HMOE2Z09hiQz3UfLK\nk/n1iGgN0wCUvlINtxfpyXl5ELp4JMLsGT+gTs0A5unB+AU1aLxcQV1/uXRGYuXz\naKi3zrEAlRt4LxxgeVkKDzvteSwWusaJEWcNhmHrUQKBgQD4LVoOWsXDf5jufG3W\nPT+ciCdl7GKUw19XY4GmCL0/KjCjd4Uat3PIkKUb8xMrkP+E979NUnTlRw6dqyI3\ny8kkUBW3+T8KK3KN7Yw8dRQf0UR9tztzggiSCBsxii7+xFbHT68+ZD/R4mgkma9H\nUjjsUe6DHAVek8I0DlZO3GsB1QKBgQDO2e5QhGKZWMG3PGAvz/JEjfIAFuhe9Qbr\nPXVhtUGESfWE64mssGUTxyRCUa40bEAckGYuqdeeljqaT072syVNTMo8lJS53Jza\nMA1SFYEFvPdJ6gRD9l0S9PhVB4hHWFfe+NNJk2WlfyvnBaYnLLb4fbDAps0aPzgK\nJCV6Sbca2wKBgQDIqur5Vl438DE5DHVHWGjZ6aFpoVQokzzBDV1kYgabT0LauiZu\n7sz47DQEwGvMu0ZQPn55R+XrCaSAykI1uVofOX4GLsvRLkZHCj9tFwG5pFzsBb9V\na1wAr/tE+EV9jEXajMzW9vo/fADXL0jxs0MBmlHvwzV4PqM1si4JP+JqLQKBgQC5\n+25vzKgOcqQyCUH+mzyb8Phupiol/q9K4UZiJKOUux7adSCjOTKYVsw+KMy168K1\nLAwD1se8mhx00+wOmkJmvy1yzLDwb/BDqULA0/7e1umM9rEBHkjPG50QbqZUZ5US\nMK1gkPuqkq45mHWs8WJOCEzc2ty8xaywSZG84vyUUwKBgQDusSmrK81Xr8nDQeVd\nEQS8tXd/iIdePtvg1fZc4tyOfdd0sY2W8xAYb5/1ibAfncgJxRH8dDQL/0m+IC5e\nWN5w4OSfvwkTnN6z5r40jnkc8ZFD/1nYoh1edcTgQQG8YxjDBMWwCq9ppzMDsQHi\n7EFK4AcVCqA9eNYkac1fzMXWrw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "storageaccountservice@arquisoft-347418.iam.gserviceaccount.com",
+  "client_id": "111400617171495758883",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/storageaccountservice%40arquisoft-347418.iam.gserviceaccount.com"
+}
